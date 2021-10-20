@@ -26,7 +26,7 @@ public class RecipeDao {
 				+ "manual_img08, manual_img09, manual_img10, manual_img11, manual_img12, manual_img13, "
 				+ "manual_img14, manual_img15, manual_img16, manual_img17, manual_img18, manual_img19, "
 				+ "manual_img20 from recipe";
-		ResultSet rset = null;
+		ResultSet rset = null; 
 		PreparedStatement pstm = null;
 		
 		try {
